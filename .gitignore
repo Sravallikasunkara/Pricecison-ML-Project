@@ -1,0 +1,31 @@
+# Virtual environments
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs and output
+*.log
+
+# Model files
+*.pkl
+*.joblib
+
+# Node/React frontend (if used)
+node_modules/
+dist/

@@ -1,0 +1,101 @@
+﻿product_id,category,product_label,inventory_details,raw_demand_score,demand,base_price,weather,stock_units,past_sales,location,shelf_life,competitor_price,manufacture_date,promotion_active,suggested_price
+1,Groceries,Flour (Groceries),Dry Storage,66,Medium,43,Rainy,16,587,Chicago,180,56,5/17/2024,FALSE,40.85
+2,Electronics,Tablet (Electronics),High Security Zone,32,Medium,463,Humid,51,924,Mexico City,180,457,9/16/2024,FALSE,463
+3,Health,First Aid (Health),Pharma Zone,14,Low,292,Humid,18,445,Berlin,180,290,3/27/2024,FALSE,277.4
+4,Health,First Aid (Health),Pharma Zone,19,Low,224,Humid,98,671,London,180,218,3/7/2024,TRUE,224
+5,Frozen,Ice Cream (Frozen),Freezer,45,Medium,184,Rainy,69,324,Jaipur,365,201,3/23/2024,TRUE,184
+6,Clothing,Dress (Clothing),Backroom,87,High,260,Dry,64,797,Hamburg,180,262,11/16/2024,TRUE,260
+7,Snacks,Cookies (Snacks),Dry Storage,41,Medium,70,Sunny,60,84,Mexico City,180,72,12/8/2024,FALSE,70
+8,Clothing,Shirt (Clothing),Backroom,29,Low,363,Snowy,97,113,Los Angeles,180,360,3/21/2024,FALSE,363
+9,Frozen,Frozen Pizza (Frozen),Freezer,6,Low,243,Humid,42,1003,Los Angeles,365,234,4/3/2024,FALSE,243
+10,Personal Care,Toothpaste (Personal Care),Pharma Zone,86,High,216,Dry,65,819,Frankfurt,730,224,2/12/2024,TRUE,216
+11,Electronics,Tablet (Electronics),High Security Zone,59,Medium,409,Snowy,95,176,Houston,180,423,10/2/2024,FALSE,409
+12,Snacks,Chips (Snacks),Dry Storage,97,High,110,Rainy,66,731,Puebla,180,113,5/8/2024,FALSE,110
+13,Beauty,Makeup (Beauty),Fragile Goods,38,Medium,176,Sunny,82,895,Mexico City,365,187,11/30/2024,TRUE,176
+14,Frozen,Frozen Pizza (Frozen),Freezer,49,Medium,189,Sunny,69,734,Hamburg,365,186,4/23/2024,FALSE,189
+15,Clothing,Shirt (Clothing),Backroom,4,Low,435,Sunny,37,458,Mumbai,180,434,3/24/2024,FALSE,435
+16,Beauty,Perfume (Beauty),Fragile Goods,69,Medium,392,Humid,85,102,Ahmedabad,365,400,2/1/2024,TRUE,392
+17,Electronics,Tablet (Electronics),High Security Zone,70,Medium,380,Rainy,69,950,Glasgow,180,378,11/18/2024,FALSE,380
+18,Snacks,Cookies (Snacks),Dry Storage,43,Medium,85,Snowy,41,916,Manchester,180,105,11/26/2024,TRUE,85
+19,Health,Supplements (Health),Pharma Zone,4,Low,268,Humid,71,226,Delhi,180,274,4/9/2024,TRUE,268
+20,Personal Care,Soap (Personal Care),Fragile Goods,34,Medium,140,Rainy,10,953,Bengaluru,730,155,9/8/2024,FALSE,133
+21,Home,Furniture (Home),Backroom,27,Low,201,Dry,63,575,Munich,180,218,9/16/2024,FALSE,201
+22,Beauty,Skincare (Beauty),Pharma Zone,38,Medium,113,Rainy,32,132,Ahmedabad,365,120,11/13/2024,FALSE,113
+23,Beauty,Makeup (Beauty),Fragile Goods,50,Medium,207,Snowy,7,764,Pune,365,223,7/21/2024,FALSE,196.65
+24,Personal Care,Shampoo (Personal Care),Fragile Goods,40,Medium,101,Dry,46,652,Birmingham,730,99,7/29/2024,FALSE,101
+25,Health,Vitamins (Health),Pharma Zone,60,Medium,436,Sunny,24,243,Houston,180,447,6/29/2024,TRUE,414.2
+26,Beverages,Coffee (Beverages),Dry Storage,50,Medium,54,Sunny,88,934,Guadalajara,365,66,4/6/2024,FALSE,54
+27,Groceries,Rice (Groceries),Cold Storage,4,Low,96,Sunny,98,830,London,180,88,8/26/2024,FALSE,96
+28,Home,Decor (Home),Backroom,82,High,322,Humid,99,267,Birmingham,180,341,9/7/2024,FALSE,322
+29,Snacks,Crackers (Snacks),Dry Storage,53,Medium,341,Dry,97,873,Munich,180,346,12/24/2024,TRUE,341
+30,Electronics,TV (Electronics),High Security Zone,15,Low,21381,Sunny,19,61,Puebla,180,21373,6/2/2024,TRUE,20311.95
+31,Beverages,Tea (Beverages),Dry Storage,46,Medium,51,Dry,50,616,Houston,365,42,7/8/2024,FALSE,51
+32,Groceries,Eggs (Groceries),Cold Storage,1,Low,69,Dry,53,925,Chennai,21,73,4/29/2024,FALSE,69
+33,Personal Care,Toothpaste (Personal Care),Pharma Zone,30,Low,102,Snowy,62,620,Guadalajara,730,101,12/18/2024,FALSE,102
+34,Frozen,Ice Cream (Frozen),Freezer,9,Low,266,Rainy,31,506,Houston,365,262,6/7/2024,TRUE,266
+35,Health,Vitamins (Health),Pharma Zone,32,Medium,484,Sunny,36,977,Chennai,180,487,1/16/2024,TRUE,484
+36,Electronics,TV (Electronics),High Security Zone,98,High,37370,Humid,87,117,Los Angeles,180,37388,8/13/2024,FALSE,37370
+37,Beverages,Soda (Beverages),Cold Storage,80,High,170,Rainy,28,927,Houston,365,182,1/25/2024,TRUE,161.5
+38,Beverages,Coffee (Beverages),Dry Storage,6,Low,87,Sunny,45,983,Los Angeles,365,102,1/9/2024,FALSE,87
+39,Home,Decor (Home),Backroom,14,Low,331,Humid,60,55,Monterrey,180,335,8/14/2024,TRUE,331
+40,Personal Care,Shampoo (Personal Care),Fragile Goods,1,Low,418,Rainy,17,92,Los Angeles,730,419,12/10/2024,TRUE,397.1
+41,Beverages,Water (Beverages),Cold Storage,71,High,480,Snowy,12,842,Frankfurt,365,490,3/20/2024,TRUE,456
+42,Personal Care,Soap (Personal Care),Fragile Goods,81,High,407,Rainy,92,435,Glasgow,730,413,3/12/2024,FALSE,407
+43,Beauty,Skincare (Beauty),Pharma Zone,1,Low,292,Sunny,27,925,Birmingham,365,282,6/15/2024,TRUE,277.4
+44,Electronics,Smartphone (Electronics),High Security Zone,70,Medium,92178,Dry,55,669,Guadalajara,730,92180,1/17/2024,FALSE,92178
+45,Electronics,Laptop (Electronics),High Security Zone,41,Medium,80215,Rainy,20,696,Los Angeles,730,80216,9/4/2024,TRUE,76204.25
+46,Personal Care,Soap (Personal Care),Fragile Goods,90,High,451,Sunny,39,71,Berlin,730,455,6/15/2024,FALSE,451
+47,Electronics,Tablet (Electronics),High Security Zone,63,Medium,334,Humid,21,865,Chicago,180,351,6/11/2024,TRUE,317.3
+48,Personal Care,Shampoo (Personal Care),Fragile Goods,68,Medium,1295,Humid,56,654,London,730,1297,7/9/2024,FALSE,1295
+49,Frozen,Ice Cream (Frozen),Freezer,87,High,225,Sunny,74,923,Mexico City,365,225,11/3/2024,TRUE,225
+50,Health,First Aid (Health),Pharma Zone,73,High,136,Rainy,22,435,Los Angeles,180,156,4/28/2024,FALSE,129.2
+51,Groceries,Flour (Groceries),Dry Storage,63,Medium,79,Sunny,10,662,London,180,69,7/26/2024,FALSE,75.05
+52,Snacks,Crackers (Snacks),Dry Storage,86,High,398,Dry,42,795,Delhi,180,404,8/14/2024,FALSE,398
+53,Health,Supplements (Health),Pharma Zone,6,Low,421,Sunny,86,619,Mumbai,180,438,11/18/2024,FALSE,421
+54,Groceries,Eggs (Groceries),Cold Storage,96,High,117,Dry,51,177,London,21,128,11/27/2024,FALSE,117
+55,Snacks,Crackers (Snacks),Dry Storage,91,High,133,Humid,99,281,London,180,126,9/29/2024,TRUE,133
+56,Beverages,Tea (Beverages),Dry Storage,81,High,53,Sunny,41,108,Los Angeles,365,68,8/9/2024,FALSE,53
+57,Clothing,Shoes (Clothing),Backroom,22,Low,196,Dry,43,598,Houston,180,202,3/11/2024,TRUE,196
+58,Snacks,Crackers (Snacks),Dry Storage,14,Low,104,Rainy,62,361,Glasgow,180,106,1/24/2024,TRUE,104
+59,Snacks,Cookies (Snacks),Dry Storage,93,High,99,Snowy,75,995,Guadalajara,180,112,10/2/2024,TRUE,99
+60,Health,Supplements (Health),Pharma Zone,23,Low,120,Sunny,98,463,Chennai,180,115,7/15/2024,FALSE,120
+61,Frozen,Frozen Pizza (Frozen),Freezer,58,Medium,193,Snowy,68,431,Mexico City,365,210,12/18/2024,FALSE,193
+62,Frozen,Frozen Veggies (Frozen),Freezer,81,High,127,Sunny,27,874,Berlin,365,142,1/29/2024,FALSE,120.65
+63,Beverages,Juice (Beverages),Cold Storage,57,Medium,111,Humid,31,810,Mexico City,365,103,12/25/2024,TRUE,111
+64,Home,Bedding (Home),Backroom,24,Low,391,Snowy,0,253,Frankfurt,180,402,7/25/2024,TRUE,371.45
+65,Groceries,Eggs (Groceries),Cold Storage,46,Medium,89,Rainy,36,744,Glasgow,21,93,10/10/2024,FALSE,89
+66,Personal Care,Soap (Personal Care),Fragile Goods,20,Low,286,Sunny,16,55,Berlin,730,283,3/9/2024,FALSE,271.7
+67,Beverages,Water (Beverages),Cold Storage,18,Low,386,Rainy,61,119,Berlin,365,380,2/27/2024,FALSE,386
+68,Home,Lighting (Home),Backroom,9,Low,469,Rainy,23,520,Puebla,180,479,2/22/2024,FALSE,445.55
+69,Beauty,Skincare (Beauty),Pharma Zone,79,High,158,Rainy,78,732,Ahmedabad,365,172,11/6/2024,TRUE,158
+70,Frozen,Ice Cream (Frozen),Freezer,38,Medium,230,Snowy,91,488,Guadalajara,365,249,1/12/2024,TRUE,230
+71,Beauty,Makeup (Beauty),Fragile Goods,43,Medium,480,Humid,37,328,Hamburg,365,480,9/9/2024,FALSE,480
+72,Personal Care,Shampoo (Personal Care),Fragile Goods,80,High,1212,Dry,15,551,Jaipur,730,1213,6/9/2024,TRUE,1151.4
+73,Clothing,Pants (Clothing),Backroom,37,Medium,452,Snowy,29,108,Monterrey,180,467,8/10/2024,FALSE,429.4
+74,Snacks,Cookies (Snacks),Dry Storage,26,Low,54,Snowy,51,79,Los Angeles,180,67,8/19/2024,FALSE,54
+75,Groceries,Rice (Groceries),Cold Storage,21,Low,74,Humid,3,312,Guadalajara,180,76,12/8/2024,FALSE,70.3
+76,Clothing,Shoes (Clothing),Backroom,11,Low,386,Rainy,1,534,Chicago,180,401,4/10/2024,TRUE,366.7
+77,Beverages,Coffee (Beverages),Dry Storage,50,Medium,146,Humid,52,554,Frankfurt,365,137,1/22/2024,FALSE,146
+78,Health,First Aid (Health),Pharma Zone,48,Medium,178,Snowy,67,859,Guadalajara,180,180,12/22/2024,FALSE,178
+79,Electronics,TV (Electronics),High Security Zone,86,High,20788,Sunny,80,666,Hamburg,180,20781,11/23/2024,TRUE,20788
+80,Home,Lighting (Home),Backroom,52,Medium,330,Sunny,34,97,Munich,180,345,8/9/2024,FALSE,330
+81,Frozen,Frozen Pizza (Frozen),Freezer,39,Medium,176,Sunny,57,48,Mumbai,365,184,8/9/2024,FALSE,176
+82,Personal Care,Soap (Personal Care),Fragile Goods,33,Medium,205,Sunny,50,582,Manchester,730,218,11/13/2024,TRUE,205
+83,Home,Decor (Home),Backroom,9,Low,127,Sunny,22,138,Jaipur,180,120,11/28/2024,TRUE,120.65
+84,Clothing,Shirt (Clothing),Backroom,53,Medium,138,Snowy,95,596,Chicago,180,134,12/8/2024,FALSE,138
+85,Groceries,Bread (Groceries),Cold Storage,90,High,48,Sunny,54,134,Mumbai,5,54,7/15/2024,FALSE,48
+86,Beverages,Juice (Beverages),Cold Storage,62,Medium,122,Humid,72,566,New York,365,129,12/10/2024,TRUE,122
+87,Clothing,Shoes (Clothing),Backroom,22,Low,168,Sunny,40,955,Puebla,180,181,8/11/2024,TRUE,168
+88,Beauty,Perfume (Beauty),Fragile Goods,63,Medium,337,Humid,13,421,Ahmedabad,365,347,11/15/2024,FALSE,320.15
+89,Beverages,Water (Beverages),Cold Storage,86,High,149,Sunny,24,924,Birmingham,365,161,9/27/2024,TRUE,141.55
+90,Personal Care,Soap (Personal Care),Fragile Goods,6,Low,105,Humid,19,148,Birmingham,730,125,9/5/2024,FALSE,99.75
+91,Electronics,Laptop (Electronics),High Security Zone,63,Medium,60969,Humid,38,74,Guadalajara,730,60987,10/18/2024,TRUE,60969
+92,Snacks,Crackers (Snacks),Dry Storage,79,High,433,Sunny,20,20,Berlin,180,444,12/20/2024,FALSE,411.35
+93,Electronics,Camera (Electronics),High Security Zone,45,Medium,36236,Rainy,86,289,Mexico City,180,36227,7/13/2024,FALSE,36236
+94,Frozen,Ice Cream (Frozen),Freezer,86,High,279,Rainy,87,327,Berlin,365,285,1/24/2024,FALSE,279
+95,Personal Care,Soap (Personal Care),Fragile Goods,98,High,404,Dry,40,2,Chicago,730,399,5/11/2024,FALSE,404
+96,Groceries,Rice (Groceries),Cold Storage,15,Low,63,Dry,18,146,Manchester,180,60,12/13/2024,FALSE,59.85
+97,Home,Decor (Home),Backroom,71,High,448,Dry,50,115,Houston,180,454,6/25/2024,TRUE,448
+98,Snacks,Nuts (Snacks),Dry Storage,42,Medium,396,Rainy,10,917,Guadalajara,180,390,1/14/2024,FALSE,376.2
+99,Groceries,Rice (Groceries),Cold Storage,84,High,90,Dry,42,658,Ahmedabad,180,105,12/15/2024,FALSE,90
+100,Snacks,Cookies (Snacks),Dry Storage,93,High,42,Sunny,16,374,Houston,180,59,2/17/2024,TRUE,39.9
